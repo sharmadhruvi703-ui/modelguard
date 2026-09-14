@@ -1,0 +1,8 @@
+__pycache__/
+.pytest_cache/
+.venv/
+*.pyc
+data/customer_churn.csv
+experiments/results/*
+!experiments/results/.gitkeep
+reports/model_reliability_report.md
